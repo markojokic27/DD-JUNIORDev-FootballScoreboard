@@ -1,0 +1,13 @@
+.event {
+  display: flex;
+  align-items: center;
+}
+.event p {
+  margin: 0 10px;
+  font-size: 18px;
+}
+.event__image {
+  size: fit-content;
+  background-size: cover;
+  height: 20px;
+}

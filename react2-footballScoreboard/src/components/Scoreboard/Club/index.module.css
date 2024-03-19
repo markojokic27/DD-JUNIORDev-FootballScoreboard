@@ -1,0 +1,11 @@
+.club {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: clamp(100px, 30%, 400px);
+}
+.club__image {
+  max-width: 60%;
+  margin-bottom: 20px;
+}
